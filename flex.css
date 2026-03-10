@@ -144,11 +144,13 @@
 .flexEight .one {
     display: flex;
     align-items: center;
+  
 }
 
 .flexEight .two {
     display: flex;
     align-items: flex-end;
+ 
 } 
 
 .flexEight .three {
